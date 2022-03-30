@@ -1,1 +1,1 @@
-file1
+my file2
