@@ -1,6 +1,0 @@
-#!/bin/bash
-<<<<<<< HEAD
-tail -1 iacta >> iacta 
-=======
-tail -n 1 iacta >> iacta
->>>>>>> bdd22f2e1383a3cceaaec1d34657ec275fee199e
